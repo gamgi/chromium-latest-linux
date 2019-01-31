@@ -1,4 +1,4 @@
-# chromium-latest-linux
+# chromium-latest-mac
 Scripts to download and run the latest **Mac or Linux** build of Chromium.
 
 ## Usage
